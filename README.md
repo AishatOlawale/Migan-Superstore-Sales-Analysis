@@ -3,6 +3,7 @@
 Migan Superstore is a fictitious retail store in (country) that sells various categories of products to its customers. As the analyst, I am tasked with the analysis and exploration of the store’s 2019 Q1 dataset. 
 I analyzed and explored the dataset using SQL (PostgreSQL) and Power BI. 
 The dataset detailed customer purchase data such as payment method, city, gender, product, etc. 
+
 # Project questions
 In order to provide timely and relevant insights to the retail store, the following questions were answered:
 1. What is the performance of member customers as opposed to normal customers? 
@@ -17,18 +18,26 @@ Below is an interactive dashboard created to further visualize the insights and 
 1. Data Cleaning
 2. Data Analysis
 3. Data Visualization
-# Data Cleaning 
+   
+# Data Cleaning
 The dataset was imported to Microsoft Excel for cleaning and transformation. The dataset was wrangled for invalid entries, duplicates, null values, empty rows, special characters, and data types. 
 
-# Data Analysis 
-The transformed dataset from Microsoft Excel was imported into PostgreSQL for analysis.
-*insert picture*
+**Raw Data**
 
-* Insert Migan Superstore Query * 
-Contains all SQL queries and business questions. 
+![{40E66159-0893-40FD-AB85-8CAB49E0A1B2} png](https://github.com/AishatOlawale/Migan-Superstore-Sales-Analysis/assets/141041957/0ba9b5ce-a491-4a94-b6e5-e53ff5166dd4)
+
+**Cleaned Data**
+ 
+![{37BC67D4-F22A-4A99-B38B-DC834F085693} png](https://github.com/AishatOlawale/Migan-Superstore-Sales-Analysis/assets/141041957/0b74a7b7-50b9-4686-9ea9-a750a4eb65f8)
+  
+# Data Analysis
+The transformed dataset from Microsoft Excel was imported into PostgreSQL for analysis.
+
+![{13E754FC-6142-450B-9299-804B494B6AD5} png](https://github.com/AishatOlawale/Migan-Superstore-Sales-Analysis/assets/141041957/32a1e2c9-fa99-4a8b-af17-8c53754b97ff)
 
 # Data Visualisation in PowerBI
 I imported CSV files from the analysis done using PostgreSQL to PowerBI for visualization and modeling.
+
 * insert modeling and dashboard *
 
 # Summary of findings 
