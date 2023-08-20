@@ -87,5 +87,3 @@ When analyzing the payment preferences across locations, interesting patterns em
 **Digital Payment Adoption:**
    - While cash remains the preferred payment method, encourage the adoption of digital payment methods like Ewallets and Credit Cards through incentives and promotions.
    - Provide clear information and guidance on how to use digital payment methods to ensure a seamless transition for customers.
-
-By implementing these recommendations, Migan Stores can capitalize on their strengths, address areas of improvement, and continue to thrive in their market.
