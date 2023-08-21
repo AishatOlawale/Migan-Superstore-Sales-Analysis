@@ -1,6 +1,6 @@
 # Migan-Superstore-Sales-Analysis
 
-Migan Superstore is a fictitious retail store in (country) that sells various categories of products to its customers. As the analyst, I am tasked with the analysis and exploration of the store’s 2019 Q1 dataset. 
+Migan Superstore is a fictitious retail store in Myanmar that sells various categories of products to its customers. As the analyst, I am tasked with the analysis and exploration of the store’s 2019 Q1 dataset. 
 I analyzed and explored the dataset using SQL (PostgreSQL) and Power BI. 
 The dataset detailed customer purchase data such as payment method, city, gender, product, etc. 
 
